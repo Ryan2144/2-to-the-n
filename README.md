@@ -1,4 +1,4 @@
-# 2-to-the-n
+# 2^n
 It's 2048, but with larger grids!
 Grid sizes include:
 
