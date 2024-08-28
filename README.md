@@ -1,6 +1,7 @@
 # 2-to-the-n
 It's 2048, but with larger grids!
 Grid sizes include:
+
 3x3 - 256
 
 4x4 - 2048
