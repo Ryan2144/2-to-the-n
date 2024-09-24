@@ -14,6 +14,10 @@ Grid sizes include:
 
 8x8 - 524288
 
-Endless mode is on a 4x4 grid.
+## Endless Modes
 
-NOTICE: Grid sizes 5x5 and larger have the ability of spawning 8s, and spawns 2 tiles per move.
+You can play Endless Mode on a 4x4, 5x5, or a 6x6 grid.
+
+## Notice
+
+Grid sizes 5x5 and larger have the ability of spawning 8s, and spawns 2 tiles per move.
